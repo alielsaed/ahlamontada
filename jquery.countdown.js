@@ -1,5 +1,5 @@
 /*!
- * The Final Countdown for jQuery v2.0.3 (https://help.ahlamontada.com)
+ * The Final Countdown for jQuery v2.0.3 (https://avascript.net/user/Santakrouz/)
  * Copyright (c) 2020 ALI ELSAED
  * 
  * No person has the right to take away the intellectual 
